@@ -12,7 +12,7 @@
 
 ⚙️ **Technical Skills:**  
 - **Languages & Tools:**  
-  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,git,github,tensorflow,&perline=8)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,git,github,tensorflow&perline=8)](https://skillicons.dev) 
 
 📊 **GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaquelNeres&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
