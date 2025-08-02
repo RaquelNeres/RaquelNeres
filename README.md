@@ -14,10 +14,6 @@
 - **Languages & Tools:**  
   [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,git,github,tensorflow,&perline=8)](https://skillicons.dev) 
 
-📫 **Contact:**  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelnascimentoneress@gmail.com) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-neres-893a3b291/) &nbsp;
-
 📊 **GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaquelNeres&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelNeres&layout=donut&theme=dark&count_private=true)
