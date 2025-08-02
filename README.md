@@ -11,9 +11,6 @@
   - Desenvolvimento de modelos de classificação de imagens com **TensorFlow**  
   - Aplicação de métodos de interpretação de IA, como **GradCam**  
   - Organização e análise de bases de dados médicas públicas  
-- **Tutorial Assembly:**  (sendo incrementado)
-  - Material didático sobre programação em Assembly para iniciantes  
-  - [Repositório](https://github.com/RaquelNeres/Tutorial_Assembly)  
 - **CS50:**  (sendo incrementado)
   - Exercícios e projetos do curso de Ciência da Computação de Harvard  
   - [Repositório](https://github.com/RaquelNeres/CS50)
@@ -32,7 +29,6 @@
 📫 **Contato:**  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelnascimentoneress@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-neres-893a3b291/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaquelNeres)
 
 📊 **Estatísticas do GitHub:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaquelNeres&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
