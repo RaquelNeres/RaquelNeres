@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Título animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Raquel;System+Breaker+%26+Bug+Tamer;Machine+Learning+Explorer;Lover+of+Code+and+Coffee" />
 
-<!--
-**RaquelNeres/RaquelNeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Formação:**  
+- Tecnico em Portos
+- (4/8) Bacharelanda em Sistemas de Informação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Experiência e Projetos:**  
+- **Pesquisa em IA:**  
+  - Desenvolvimento de modelos de classificação de imagens com **TensorFlow**  
+  - Aplicação de métodos de interpretação de IA, como **GradCam**  
+  - Organização e análise de bases de dados médicas públicas  
+- **Tutorial Assembly:**  (sendo incrementado)
+  - Material didático sobre programação em Assembly para iniciantes  
+  - [Repositório](https://github.com/RaquelNeres/Tutorial_Assembly)  
+- **CS50:**  (sendo incrementado)
+  - Exercícios e projetos do curso de Ciência da Computação de Harvard  
+  - [Repositório](https://github.com/RaquelNeres/CS50)
+
+⚙️ **Habilidades Técnicas:**  
+- **Linguagens e Ferramentas:**  
+  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,git,github,tensorflow,&perline=8)](https://skillicons.dev) 
+- **Experiência Básica:**  
+  - Pandas, NumPy, Assembly
+
+🎯 **Áreas de Interesse:**  
+- Inteligência Artificial e Machine Learning  
+- Desenvolvimento Backend  
+- Engenharia de Software  
+
+📫 **Contato:**  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelnascimentoneress@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-neres-893a3b291/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaquelNeres)
+
+📊 **Estatísticas do GitHub:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaquelNeres&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelNeres&layout=donut&theme=dark&count_private=true)
