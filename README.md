@@ -1,10 +1,5 @@
 <!-- Título animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Raquel;System+Breaker+%26+Bug+Tamer;Machine+Learning+Explorer;Lover+of+Code+and+Coffee" />
-
-
-🎓 **Formação:**  
-- Tecnico em Portos
-- (4/8) Bacharelanda em Sistemas de Informação  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Raquel;Port+Technician;Information+Systems+Undergraduate+(4%2F8)" />
 
 💻 **Experiência e Projetos:**  
 - **Pesquisa em IA:**  
