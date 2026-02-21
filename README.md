@@ -1,14 +1,17 @@
 <!-- Título animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Raquel;Information+Systems+(4%2F8);Port+Technician" />
 
-<h2>💻 Experience & Projects: </h2>
-- **AI Research:**  
-  - Development of image classification models with **TensorFlow**  
-  - Application of AI interpretability methods, such as **GradCam**  
-  - Organization and analysis of public medical image datasets  
-- **CS50:** (currently being updated)
-  - Exercises and projects from Harvard's Computer Science course  
-  - [Repository](https://github.com/RaquelNeres/CS50)
+## 💻 Experience & Projects
+
+### 🧠 AI Research
+*Desenvolvimento e pesquisa com foco em Visão Computacional e IA na saúde.*
+- ⚙️ **Modelagem:** Desenvolvimento de modelos de classificação de imagens usando **TensorFlow**.
+- 🔍 **Explicabilidade:** Aplicação de métodos de interpretabilidade de IA, como **Grad-CAM**.
+- 📊 **Análise de Dados:** Organização e tratamento de datasets públicos de imagens médicas.
+
+### 🎓 Harvard CS50
+- 💻 Resolução de exercícios e desenvolvimento de projetos práticos do curso de Ciência da Computação de Harvard.
+- 🔗 **[Acessar Repositório](https://github.com/RaquelNeres/CS50)**
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
 <h3>💻 &nbsp;Front-end: </h3>
