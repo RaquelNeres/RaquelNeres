@@ -5,13 +5,13 @@
 
 ### 🧠 AI Research
 *Desenvolvimento e pesquisa com foco em Visão Computacional e IA na saúde.*
-- ⚙️ **Modelagem:** Desenvolvimento de modelos de classificação de imagens usando **TensorFlow**.
-- 🔍 **Explicabilidade:** Aplicação de métodos de interpretabilidade de IA, como **Grad-CAM**.
-- 📊 **Análise de Dados:** Organização e tratamento de datasets públicos de imagens médicas.
+- **Modelagem:** Desenvolvimento de modelos de classificação de imagens usando **TensorFlow**.
+- **Explicabilidade:** Aplicação de métodos de interpretabilidade de IA, como **Grad-CAM**.
+- **Análise de Dados:** Organização e tratamento de datasets públicos de imagens médicas.
 
 ### 🎓 Harvard CS50
-- 💻 Resolução de exercícios e desenvolvimento de projetos práticos do curso de Ciência da Computação de Harvard.
-- 🔗 **[Acessar Repositório](https://github.com/RaquelNeres/CS50)**
+- Resolução de exercícios e desenvolvimento de projetos práticos do curso de Ciência da Computação de Harvard.
+- **[Acessar Repositório](https://github.com/RaquelNeres/CS50)**
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
 <h3>💻 &nbsp;Front-end: </h3>
